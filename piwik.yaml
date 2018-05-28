@@ -1,3 +1,0 @@
-enabled: true        # global enable/disable the entire plugin
-siteId: 0            # site piwik/Matomo tracking ID
-sitePiWikURL: ''      # site piwik/Matomo url
